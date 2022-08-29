@@ -1,0 +1,8 @@
+.nav-color {
+    background-color: #fffbf0;
+}
+
+.btn-color {
+    background-image: linear-gradient(rgb(248, 59, 147), rgba(255, 0, 0, 0.589));
+    color: white;
+}
